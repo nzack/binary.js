@@ -1,4 +1,5 @@
-* 1.3.1 (2019-03-06)
+* 2.0.0 (2019-03-06)
+  * _Major_: Removes support for byte array
   * _patch_: Fixed work with base64 encoding
 * 1.3.0 (2018-12-17)
   * _minor_: fixed work with binary files broken in 1.1.0
